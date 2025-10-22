@@ -1,3 +1,3 @@
 
-# 代理插件 OpenClash
+### 代理插件 OpenClash
 CONFIG_PACKAGE_luci-app-openclash=y
