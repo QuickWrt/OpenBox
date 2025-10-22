@@ -1,0 +1,3 @@
+
+### 代理插件 Nikki
+CONFIG_PACKAGE_luci-app-nikki=y
